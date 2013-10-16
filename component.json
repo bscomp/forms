@@ -1,0 +1,9 @@
+{
+  "name": "forms",
+  "repo": "bscomp/forms",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
